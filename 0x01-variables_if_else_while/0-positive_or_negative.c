@@ -1,4 +1,8 @@
-sh: 1: :w: not found
+#include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
+/**
+ * main - determine whete the number is positive or negative or zero
  *
  * return:alawys 0(sucssec)
  */
